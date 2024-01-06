@@ -518,7 +518,7 @@ call s:Col('diffIndexLine', 'darkblue', 'grey2')
 call s:Col('diffLine',      'base2',    'lightblue')
 call s:Col('diffSubname',   'darkblue', 'lightblue')
 call s:Col('diffAdded',     'green',    'lightgreen')
-call s:Col('diffRemoved',   'red',      'lightred')
+call s:Col('diffRemoved',   'base0',    'lightred')
 
 " vim-pandoc-syntax
 call s:Col('pandocAtxStart', 'base4')
